@@ -1,0 +1,4 @@
+ Um objeto é composto por 3 itens "Propriedades , métodos e eventos"
+Um objeto sempre vai ser um tipo de referência
+um tipo de referência só armezena o o endereço dos dados
+eles ficam alocados ha memória Heap, em quanto os de valor ficam na memória stack

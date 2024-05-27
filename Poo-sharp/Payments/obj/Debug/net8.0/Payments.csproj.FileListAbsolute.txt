@@ -1,0 +1,15 @@
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\obj\Debug\net8.0\Payments.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\obj\Debug\net8.0\Payments.AssemblyInfoInputs.cache
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\obj\Debug\net8.0\Payments.AssemblyInfo.cs
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\obj\Debug\net8.0\Payments.csproj.CoreCompileInputs.cache
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\obj\Debug\net8.0\Payments.sourcelink.json
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\bin\Debug\net8.0\Payments.exe
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\bin\Debug\net8.0\Payments.deps.json
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\bin\Debug\net8.0\Payments.runtimeconfig.json
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\bin\Debug\net8.0\Payments.dll
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\bin\Debug\net8.0\Payments.pdb
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\obj\Debug\net8.0\Payments.dll
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\obj\Debug\net8.0\refint\Payments.dll
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\obj\Debug\net8.0\Payments.pdb
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\obj\Debug\net8.0\Payments.genruntimeconfig.cache
+A:\Programação\Balta.io\Formacao-FullStack\Poo-sharp\Payments\obj\Debug\net8.0\ref\Payments.dll
